@@ -23,7 +23,7 @@ Here are some screenshots.
 
 https://user-images.githubusercontent.com/14945070/43964166-39d51d2c-9c8a-11e8-8542-238b1906dffb.png
 
-https://user-images.githubusercontent.com/14945070/43964196-41b43ba4-9c8a-11e8-988f-1a3bc75cb53e.png
+https://user-images.githubusercontent.com/14945070/43964335-a02df670-9c8a-11e8-86b2-8061354d9fdd.png
 
 * Ruby 2.2.3 
 
