@@ -1,0 +1,11 @@
+<p> Enter Text (10 characters MAX per line) </p>
+<%=form_tag({controller: "lcd_letters", action: "index"},method: "get") do %>
+	<input id = "line1" name="line1" type = "text" maxlength="10" style="text-transform:uppercase">
+	<br>
+	<input id = "line2" name="line2" type = "text" maxlength="10" style="text-transform:uppercase">
+	<br>
+	<input id = "line3" name="line3" type = "text" maxlength="10" style="text-transform:uppercase">
+	<br>
+	<%= submit_tag("Submit")%>
+<%end%>
+

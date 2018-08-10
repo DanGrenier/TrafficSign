@@ -1,0 +1,24 @@
+== D.O.T TRAFFIC SIGN
+
+I was driving the other day and saw one of those traffic sign from the DOT.
+Those that display things such as ROAD CLOSED or EXIT CLOSED or ROAD WORK
+
+I started thinking about how this sign was working.
+
+My guess is that it was using some kind of matrix for each character and that matrix would either turn LED light ON or leaving it OFF.
+
+So I decided to give it a go just for giggles and grin. It was a fun little project that took me an afternoon to make.
+
+The app is really simple and I didn't put too much effort on making it pretty.
+I just wanted to make it work.
+
+Here are some screenshots. 
+
+* Ruby 2.2.3 
+
+* Rails 4.2.4
+
+
+
+
+
