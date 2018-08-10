@@ -12,6 +12,13 @@ So I decided to give it a go just for giggles and grin. It was a fun little proj
 The app is really simple and I didn't put too much effort on making it pretty.
 I just wanted to make it work.
 
+Currently the App supports Characters A to Z (capitalized only) 0 to 9 along with ! and ?
+
+I'm sure there could be a better way to implement the matrix and the calls to get them.
+
+With this solution characters like / or \ or even - will not work
+
+
 Here are some screenshots. 
 
 * Ruby 2.2.3 
