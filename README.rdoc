@@ -12,11 +12,9 @@ So I decided to give it a go just for giggles and grin. It was a fun little proj
 The app is really simple and I didn't put too much effort on making it pretty.
 I just wanted to make it work.
 
-Currently the App supports Characters A to Z (capitalized only) 0 to 9 along with ! and ?
+Currently the App supports Characters A to Z (capitalized only) 0 to 9 along with a few special characters
 
-I'm sure there could be a better way to implement the matrix and the calls to get them.
-
-With this solution characters like / or \ or even - will not work
+I refactored the app using a hash that contains the method calls for each characters, making it possible to use special characters.
 
 
 Here are some screenshots. 
